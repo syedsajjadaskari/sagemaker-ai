@@ -18,10 +18,12 @@ Step 2: Go to Amazon SageMaker AI->Applications and Jupyter Lab -> Quick create 
 
 Step 4: Select notebook instance and Open JupyterLab. Select ipykernal as your preferred notebook when prompted.Go to File->New->Terminal and create a new terminal.
 
+Open terminal in jupyter lab and clone the repository
 
 Clone the repository 
 Open cat - 2.ipynb file 
 see the instruction there 
+
 
 
 
